@@ -1,7 +1,6 @@
 # TriangleLabs
 
-Suport Discord Server - https://discord.gg/qxwTY2x5N7
-Donate - https://patreon.com/TriangleLabs
+Suport Discord Server - https://discord.gg/qxwTY2x5N7<br>Donate - https://patreon.com/TriangleLabs
 
 ## Instructions
 Change Settings in the `launcher.py` file

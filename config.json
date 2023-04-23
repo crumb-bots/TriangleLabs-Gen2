@@ -1,0 +1,7 @@
+{
+    "openai_apikey": "",
+    "stablediffusion_apikey": "",
+    "deepai_apikey": "",
+    "api-ninjas_apikey": "",
+    "imagga_auth": ["", ""]
+}

@@ -1,7 +1,6 @@
 # python3 "[PATH TO bot.py]" "[TOKEN]" "[ACTIVITY TYPE]" "[BOT STATUS]" "[BOT PERSONALITY]" "[DATABASE LOC]" "[OPT STREAM LINK]"
 import langdetect, langcodes, translators, os, json
 
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 with open("config.json") as config_raw:
     config_tokens = json.load(config_raw)
     config_raw.close()

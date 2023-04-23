@@ -1,5 +1,4 @@
 # TriangleLabs
-Source Code for bots at https://discord.gg/qxwTY2x5N7
 
 Suport Discord Server -  https://discord.gg/qxwTY2x5N7
 

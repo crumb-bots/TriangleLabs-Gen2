@@ -1,3 +1,6 @@
+May 14 2023 Update: This source code is outdated - this repo is not being updated.<br>
+This is not the source code for the 3rd Generation of TriangleLabs.
+
 # TriangleLabs
 
 Suport Discord Server - https://discord.gg/qxwTY2x5N7<br>Donate - https://patreon.com/TriangleLabs
